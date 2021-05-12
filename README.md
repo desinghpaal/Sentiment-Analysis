@@ -1,4 +1,4 @@
-# Sentiment-Analysis
+# Rule based Sentiment-Analysis
 A simple and minimal code that defines the tweets from Twitter as poitive or negative emotion using python library 'TextBlob'
 API is called and used using the tweepy library
 
