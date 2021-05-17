@@ -3,4 +3,4 @@ A simple and minimal code that defines the tweets from Twitter as positive or ne
 API is called and used using the tweepy library
 
 NOTE:
-Consumer Key, Consumer Secret, Access Token, Access Token Secret should be requested from developer.twitter.com and cant be reused for 1 hour only.
+Consumer Key, Consumer Secret, Access Token, Access Token Secret should be requested from developer.twitter.com and can be reused for 1 hour only.
