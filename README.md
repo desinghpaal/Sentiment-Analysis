@@ -1,5 +1,5 @@
 # Rule based Sentiment-Analysis
-A simple and basic code that pulls tweets from Twitter and categorizes the fetched data as positive and negative response using the Pythojn library "textblob" 
+A simple and basic code that pulls tweets from Twitter and categorizes the fetched data as positive and negative response using the Pythojn library "textblob". 
 Tweets are pulled from twitter using the Tweepy library.
 
 NOTE:
